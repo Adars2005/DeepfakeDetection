@@ -1,0 +1,1 @@
+This project aims to develop a deep learning-based system capable of detecting deepfake images and videos. Deepfakes are AI-generated manipulations that can be misused for misinformation and malicious activities. Through this project, I learned how to build an end-to-end pipeline from data preprocessing to model training and evaluation for real vs. fake image classification
